@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AtbashGame")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+087cddc0dbcdd930d6eb294a468806bee5f23061")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+968071dd3cd7177b950d6550b494d7119e9d0862")]
 [assembly: System.Reflection.AssemblyProductAttribute("AtbashGame")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AtbashGame")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
