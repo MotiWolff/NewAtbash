@@ -1,0 +1,38 @@
+# Build results
+bin/
+obj/
+out/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider / JetBrains IDEs
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# ASP.NET temp files
+*.dbmdl
+
+# Package management
+*.nupkg
+packages/
+*.snupkg
+
+# Project lock files
+project.lock.json
+project.fragment.lock.json
+
+# Others
+*.log
+*.tmp
+*.cache
+
+# Dotnet tools
+*.dotCover
+*.dotSettings.user
+*.vs/
